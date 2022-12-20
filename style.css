@@ -4,7 +4,7 @@
     
 }
 .main{
-    background-color: linear gradient (orange, white, green);
+    background-color: linear gradient (to bottom right, orange, white, green);
     margin:300px;
     width: 300px;
     height: 100px;
