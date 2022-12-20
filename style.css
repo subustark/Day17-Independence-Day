@@ -4,7 +4,7 @@
     
 }
 .main{
-    background-image: linear gradient(to bottom right,orange,white,green);
+    background-image: linear-gradient(to bottom right,orange,white,green);
     margin:300px;
     width: 300px;
     height: 300px;
