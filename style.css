@@ -1,0 +1,16 @@
+#main2{
+    display: flex;
+    justify-content: center;
+    
+}
+.main{
+    background-color: blue;
+    margin:300px;
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    padding:10px;
+    font-size: large;
+    font-weight: bolder;
+    color: white;
+}
